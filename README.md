@@ -1,2 +1,2 @@
 # rep1-navch
-navchannia
+navchannia 1 zavdannia
